@@ -22,6 +22,7 @@ brooklyn.catalog:
   name: Kafka
   description: Apache Kafka is a distributed publish-subscribe messaging system
   itemType: template
+  iconUrl: https://upload.wikimedia.org/wikipedia/commons/f/f7/Apache_kafka.png
   license: Apache-2.0
   publish:
     license_code: Apache-2.0
